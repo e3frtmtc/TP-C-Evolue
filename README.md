@@ -10,8 +10,8 @@ Ensuite sur votre machine vous aller dans un répertoire genre "workspace" et vo
 
 Vous pouvez maintenant accéder au dossier TP-C-Evolue ! 
 
-Pour accéder aux fichier il faut vous placer sur la branche Develop. 
-Commencez par taper "git status". Si vous n'êtes pas sur la branche Develop tapez "git checkout Develop".
+Pour accéder aux fichier il faut vous placer sur la branche develop. 
+Commencez par taper "git status". Si vous n'êtes pas sur la branche develop tapez "git checkout Develop".
 Puis "git pull".
 
 
@@ -20,7 +20,7 @@ Normalement vous pouvez voir les fichiers dans votre dossier.
 
 Concernant les push pour ajouter vos modifications : 
 
-- git status (on vérifie qu'on est bien sur la branche Develop, sinon on fait un git checkout Develop)
+- git status (on vérifie qu'on est bien sur la branche develop, sinon on fait un git checkout develop)
 - git add -all    ou    git add 'nom de fichier'
 - git commit -m 'commentaire sur les modifications apportées'
 - git pull (ne jamais oublier de pull sinon vous pouvez effacer toutes les modifications que d'autres auraient fait !)
